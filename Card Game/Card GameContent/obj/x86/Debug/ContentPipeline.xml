@@ -1,0 +1,679 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>back.jpg</Source>
+      <Name>back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\back.xnb</Output>
+      <Time>2014-06-02T23:26:11.6951163+05:30</Time>
+    </Item>
+    <Item>
+      <Source>CAC.png</Source>
+      <Name>CAC</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\CAC.xnb</Output>
+      <Time>2014-01-04T10:13:27.6012432+05:30</Time>
+    </Item>
+    <Item>
+      <Source>CEI.png</Source>
+      <Name>CEI</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\CEI.xnb</Output>
+      <Time>2014-01-04T10:13:27.6182546+05:30</Time>
+    </Item>
+    <Item>
+      <Source>CFI.png</Source>
+      <Name>CFI</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\CFI.xnb</Output>
+      <Time>2014-01-04T10:13:27.6252592+05:30</Time>
+    </Item>
+    <Item>
+      <Source>CFO.png</Source>
+      <Name>CFO</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\CFO.xnb</Output>
+      <Time>2014-01-04T10:13:27.6332654+05:30</Time>
+    </Item>
+    <Item>
+      <Source>CJA.png</Source>
+      <Name>CJA</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\CJA.xnb</Output>
+      <Time>2014-01-04T10:13:27.6472739+05:30</Time>
+    </Item>
+    <Item>
+      <Source>CKI.png</Source>
+      <Name>CKI</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\CKI.xnb</Output>
+      <Time>2014-01-04T10:13:27.6562791+05:30</Time>
+    </Item>
+    <Item>
+      <Source>CNI.png</Source>
+      <Name>CNI</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\CNI.xnb</Output>
+      <Time>2014-01-04T10:13:27.6602826+05:30</Time>
+    </Item>
+    <Item>
+      <Source>CQU.png</Source>
+      <Name>CQU</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\CQU.xnb</Output>
+      <Time>2014-01-04T10:13:27.6682879+05:30</Time>
+    </Item>
+    <Item>
+      <Source>CSE.png</Source>
+      <Name>CSE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\CSE.xnb</Output>
+      <Time>2014-01-04T10:13:27.6832962+05:30</Time>
+    </Item>
+    <Item>
+      <Source>CSI.png</Source>
+      <Name>CSI</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\CSI.xnb</Output>
+      <Time>2014-01-04T10:13:27.6862999+05:30</Time>
+    </Item>
+    <Item>
+      <Source>CTE.png</Source>
+      <Name>CTE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\CTE.xnb</Output>
+      <Time>2014-01-04T10:13:27.6983058+05:30</Time>
+    </Item>
+    <Item>
+      <Source>CTH.png</Source>
+      <Name>CTH</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\CTH.xnb</Output>
+      <Time>2014-01-04T10:13:27.7033096+05:30</Time>
+    </Item>
+    <Item>
+      <Source>CTW.png</Source>
+      <Name>CTW</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\CTW.xnb</Output>
+      <Time>2014-01-04T10:13:27.7043102+05:30</Time>
+    </Item>
+    <Item>
+      <Source>DAC.png</Source>
+      <Name>DAC</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\DAC.xnb</Output>
+      <Time>2014-01-04T10:13:27.7113153+05:30</Time>
+    </Item>
+    <Item>
+      <Source>DEI.png</Source>
+      <Name>DEI</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\DEI.xnb</Output>
+      <Time>2014-01-04T10:13:27.7173202+05:30</Time>
+    </Item>
+    <Item>
+      <Source>DFI.png</Source>
+      <Name>DFI</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\DFI.xnb</Output>
+      <Time>2014-01-04T10:13:27.7233246+05:30</Time>
+    </Item>
+    <Item>
+      <Source>DFO.png</Source>
+      <Name>DFO</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\DFO.xnb</Output>
+      <Time>2014-01-04T10:13:27.7253242+05:30</Time>
+    </Item>
+    <Item>
+      <Source>DJA.png</Source>
+      <Name>DJA</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\DJA.xnb</Output>
+      <Time>2014-01-04T10:13:27.7303276+05:30</Time>
+    </Item>
+    <Item>
+      <Source>DKI.png</Source>
+      <Name>DKI</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\DKI.xnb</Output>
+      <Time>2014-01-04T10:13:27.7403355+05:30</Time>
+    </Item>
+    <Item>
+      <Source>DNI.png</Source>
+      <Name>DNI</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\DNI.xnb</Output>
+      <Time>2014-01-04T10:13:27.8223885+05:30</Time>
+    </Item>
+    <Item>
+      <Source>DQU.png</Source>
+      <Name>DQU</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\DQU.xnb</Output>
+      <Time>2014-01-04T10:13:27.8323969+05:30</Time>
+    </Item>
+    <Item>
+      <Source>DSE.png</Source>
+      <Name>DSE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\DSE.xnb</Output>
+      <Time>2014-01-04T10:13:27.8434025+05:30</Time>
+    </Item>
+    <Item>
+      <Source>DSI.png</Source>
+      <Name>DSI</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\DSI.xnb</Output>
+      <Time>2014-01-04T10:13:27.8574255+05:30</Time>
+    </Item>
+    <Item>
+      <Source>DTE.png</Source>
+      <Name>DTE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\DTE.xnb</Output>
+      <Time>2014-01-04T10:13:27.8714336+05:30</Time>
+    </Item>
+    <Item>
+      <Source>DTH.png</Source>
+      <Name>DTH</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\DTH.xnb</Output>
+      <Time>2014-01-04T10:13:27.8784391+05:30</Time>
+    </Item>
+    <Item>
+      <Source>DTW.png</Source>
+      <Name>DTW</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\DTW.xnb</Output>
+      <Time>2014-01-04T10:13:27.8894452+05:30</Time>
+    </Item>
+    <Item>
+      <Source>HAC.png</Source>
+      <Name>HAC</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\HAC.xnb</Output>
+      <Time>2014-01-04T10:13:27.8984529+05:30</Time>
+    </Item>
+    <Item>
+      <Source>HEI.png</Source>
+      <Name>HEI</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\HEI.xnb</Output>
+      <Time>2014-01-04T10:13:27.9054559+05:30</Time>
+    </Item>
+    <Item>
+      <Source>HFI.png</Source>
+      <Name>HFI</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\HFI.xnb</Output>
+      <Time>2014-01-04T10:13:27.9094585+05:30</Time>
+    </Item>
+    <Item>
+      <Source>HFO.png</Source>
+      <Name>HFO</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\HFO.xnb</Output>
+      <Time>2014-01-04T10:13:27.9194652+05:30</Time>
+    </Item>
+    <Item>
+      <Source>HJA.png</Source>
+      <Name>HJA</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\HJA.xnb</Output>
+      <Time>2014-01-04T10:13:27.9344748+05:30</Time>
+    </Item>
+    <Item>
+      <Source>HKI.png</Source>
+      <Name>HKI</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\HKI.xnb</Output>
+      <Time>2014-01-04T10:13:27.945483+05:30</Time>
+    </Item>
+    <Item>
+      <Source>HNI.png</Source>
+      <Name>HNI</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\HNI.xnb</Output>
+      <Time>2014-01-04T10:13:27.9634941+05:30</Time>
+    </Item>
+    <Item>
+      <Source>HQU.png</Source>
+      <Name>HQU</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\HQU.xnb</Output>
+      <Time>2014-01-04T10:13:27.9755043+05:30</Time>
+    </Item>
+    <Item>
+      <Source>HSE.png</Source>
+      <Name>HSE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\HSE.xnb</Output>
+      <Time>2014-01-04T10:13:27.9915235+05:30</Time>
+    </Item>
+    <Item>
+      <Source>HSI.png</Source>
+      <Name>HSI</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\HSI.xnb</Output>
+      <Time>2014-01-04T10:13:27.9965281+05:30</Time>
+    </Item>
+    <Item>
+      <Source>HTE.png</Source>
+      <Name>HTE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\HTE.xnb</Output>
+      <Time>2014-01-04T10:13:28.0125486+05:30</Time>
+    </Item>
+    <Item>
+      <Source>HTH.png</Source>
+      <Name>HTH</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\HTH.xnb</Output>
+      <Time>2014-01-04T10:13:28.0285589+05:30</Time>
+    </Item>
+    <Item>
+      <Source>HTW.png</Source>
+      <Name>HTW</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\HTW.xnb</Output>
+      <Time>2014-01-04T10:13:28.0525839+05:30</Time>
+    </Item>
+    <Item>
+      <Source>SAC.png</Source>
+      <Name>SAC</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\SAC.xnb</Output>
+      <Time>2014-01-04T10:13:28.0666112+05:30</Time>
+    </Item>
+    <Item>
+      <Source>SEI.png</Source>
+      <Name>SEI</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\SEI.xnb</Output>
+      <Time>2014-01-04T10:13:28.0736158+05:30</Time>
+    </Item>
+    <Item>
+      <Source>SFI.png</Source>
+      <Name>SFI</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\SFI.xnb</Output>
+      <Time>2014-01-04T10:13:28.0806205+05:30</Time>
+    </Item>
+    <Item>
+      <Source>SFO.png</Source>
+      <Name>SFO</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\SFO.xnb</Output>
+      <Time>2014-01-04T10:13:28.0886254+05:30</Time>
+    </Item>
+    <Item>
+      <Source>SJA.png</Source>
+      <Name>SJA</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\SJA.xnb</Output>
+      <Time>2014-01-04T10:13:28.0976327+05:30</Time>
+    </Item>
+    <Item>
+      <Source>SKI.png</Source>
+      <Name>SKI</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\SKI.xnb</Output>
+      <Time>2014-01-04T10:13:28.1016345+05:30</Time>
+    </Item>
+    <Item>
+      <Source>SNI.png</Source>
+      <Name>SNI</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\SNI.xnb</Output>
+      <Time>2014-01-04T10:13:28.1076381+05:30</Time>
+    </Item>
+    <Item>
+      <Source>SQU.png</Source>
+      <Name>SQU</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\SQU.xnb</Output>
+      <Time>2014-01-04T10:13:28.1206468+05:30</Time>
+    </Item>
+    <Item>
+      <Source>SSE.png</Source>
+      <Name>SSE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\SSE.xnb</Output>
+      <Time>2014-01-04T10:13:28.1336554+05:30</Time>
+    </Item>
+    <Item>
+      <Source>SSI.png</Source>
+      <Name>SSI</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\SSI.xnb</Output>
+      <Time>2014-01-04T10:13:28.1456647+05:30</Time>
+    </Item>
+    <Item>
+      <Source>STE.png</Source>
+      <Name>STE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\STE.xnb</Output>
+      <Time>2014-01-04T10:13:28.1516679+05:30</Time>
+    </Item>
+    <Item>
+      <Source>STH.png</Source>
+      <Name>STH</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\STH.xnb</Output>
+      <Time>2014-01-04T10:13:28.1717706+05:30</Time>
+    </Item>
+    <Item>
+      <Source>STW.png</Source>
+      <Name>STW</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\STW.xnb</Output>
+      <Time>2014-01-04T10:13:28.183776+05:30</Time>
+    </Item>
+    <Item>
+      <Source>CARD.png</Source>
+      <Name>CARD</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\CARD.xnb</Output>
+      <Time>2014-01-04T14:04:14.8143521+05:30</Time>
+    </Item>
+    <Item>
+      <Source>D.png</Source>
+      <Name>D</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\D.xnb</Output>
+      <Time>2014-01-08T20:33:03.6345906+05:30</Time>
+    </Item>
+    <Item>
+      <Source>H.png</Source>
+      <Name>H</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\H.xnb</Output>
+      <Time>2014-01-08T20:33:03.6501839+05:30</Time>
+    </Item>
+    <Item>
+      <Source>S.png</Source>
+      <Name>S</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\S.xnb</Output>
+      <Time>2014-01-08T20:33:03.6501839+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C.png</Source>
+      <Name>C</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\C.xnb</Output>
+      <Time>2014-01-08T20:47:52.3914195+05:30</Time>
+    </Item>
+    <Item>
+      <Source>black.png</Source>
+      <Name>black</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\black.xnb</Output>
+      <Time>2014-01-17T20:26:42.2299984+05:30</Time>
+    </Item>
+    <Item>
+      <Source>rect.PNG</Source>
+      <Name>rect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\rect.xnb</Output>
+      <Time>2014-02-24T23:56:05.9732129+05:30</Time>
+    </Item>
+    <Item>
+      <Source>rect2.PNG</Source>
+      <Name>rect2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\rect2.xnb</Output>
+      <Time>2014-02-25T00:00:31.1415576+05:30</Time>
+    </Item>
+    <Item>
+      <Source>back304.jpg</Source>
+      <Name>back304</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\back304.xnb</Output>
+      <Time>2014-09-26T07:40:51.0991176+05:30</Time>
+    </Item>
+    <Item>
+      <Source>my_font.spritefont</Source>
+      <Name>my_font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\my_font.xnb</Output>
+      <Time>2014-01-19T17:52:33.4515729+05:30</Time>
+    </Item>
+    <Item>
+      <Source>my_font2.spritefont</Source>
+      <Name>my_font2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\my_font2.xnb</Output>
+      <Time>2014-02-22T20:00:28.5927442+05:30</Time>
+    </Item>
+    <Item>
+      <Source>my_font3.spritefont</Source>
+      <Name>my_font3</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\my_font3.xnb</Output>
+      <Time>2014-02-24T23:28:36.8382543+05:30</Time>
+    </Item>
+    <Item>
+      <Source>backSong.mp3</Source>
+      <Name>backSong</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\backSong.xnb</Output>
+      <Extra>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\backSong.wma</Extra>
+      <Time>2014-03-10T06:41:17.293098+05:30</Time>
+    </Item>
+    <Item>
+      <Source>last.mp3</Source>
+      <Name>last</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\last.xnb</Output>
+      <Extra>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\last.wma</Extra>
+      <Time>2014-02-27T22:47:34.6443144+05:30</Time>
+    </Item>
+    <Item>
+      <Source>errorTrack.wav</Source>
+      <Name>errorTrack</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\errorTrack.xnb</Output>
+      <Time>2014-02-20T20:43:26.512741+05:30</Time>
+    </Item>
+    <Item>
+      <Source>okTrack.wav</Source>
+      <Name>okTrack</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\okTrack.xnb</Output>
+      <Time>2014-02-20T07:51:24.8083737+05:30</Time>
+    </Item>
+    <Item>
+      <Source>aaa.wmv</Source>
+      <Name>aaa</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\aaa.xnb</Output>
+      <Extra>C:\Users\Malinda Kumarasinghe\documents\visual studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\aaa.wmv</Extra>
+      <Time>2014-03-11T05:29:08.8987466+05:30</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Malinda Kumarasinghe\Documents\Visual Studio 2010\Projects\Card Game\Card Game\Card GameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Malinda Kumarasinghe\Documents\Visual Studio 2010\Projects\Card Game\Card Game\Card Game\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Malinda Kumarasinghe\Documents\Visual Studio 2010\Projects\Card Game\Card Game\Card GameContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Malinda Kumarasinghe\Documents\Visual Studio 2010\Projects\Card Game\Card Game\Card Game\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-11-14T22:17:42.0775017+05:30</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

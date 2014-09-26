@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Worths>
+  <AC>0</AC>
+  <TW>1</TW>
+  <TH>2</TH>
+  <FO>3</FO>
+  <FI>4</FI>
+  <SI>5</SI>
+  <SE>6</SE>
+  <EI>7</EI>
+  <NI>8</NI>
+  <TE>9</TE>
+  <JA>10</JA>
+  <QU>11</QU>
+  <KI>12</KI>
+  
+  <CTW>00</CTW>
+  <DTW>01</DTW>
+  <HTW>02</HTW>
+  <STW>03</STW>
+  
+  <CTH>04</CTH>
+  <DTH>05</DTH>
+  <HTH>06</HTH>
+  <STH>07</STH>
+  
+</Worths>
